@@ -1,0 +1,11 @@
+These are the commands usdd for the Learning to Commit Assignment.
+
+git add.
+git commit -m "your messge here"
+git log
+git push origin master
+
+vi "this opens vi text editor and allows you to type text"
+:wq "this saves and quits your work in the vi text editor"
+
+
